@@ -1,0 +1,26 @@
+.card.cards {
+    background: #8742E3;
+    width: 74%;
+    border-radius: 2rem;
+}
+article.white-circle {
+    height: 10px;
+    width: 10px;
+    background: white;
+    border-radius: 50%;
+}
+article.ash-circle {
+    height: 10px;
+    width: 10px;
+    background: rgb(155, 153, 153);
+    border-radius: 50%;
+}
+.card.rotate{
+    transform:rotate(89deg);
+    width: 40%;
+    border-radius: 2rem;
+    height: 10%;
+    margin-top: 7rem;
+    border-color: white;
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15);
+}

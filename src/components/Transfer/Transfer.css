@@ -1,0 +1,14 @@
+.input-group-append.rounded-pill {
+    background-color: #8854FE;
+}
+input.form-control.py-4.w-50.rounded-pill {
+    border-right-color: white;
+    background: #EFF1F4;
+}
+.w-75.shadow {
+    height: 13rem;
+    border-radius: 2rem;
+}
+.input-group.mx-auto.border-0.shadow.rounded-pill {
+    width: 93%;
+}

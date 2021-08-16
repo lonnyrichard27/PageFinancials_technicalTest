@@ -1,0 +1,6 @@
+.input-group-append.rounded-pill {
+    background-color: #8854FE;
+}
+input.form-control.py-4.w-50.rounded-pill {
+    border-right-color: white;
+}
